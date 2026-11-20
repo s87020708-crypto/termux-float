@@ -1,4 +1,4 @@
-# Termux:Float
+# Termux: Floating 
 
 [![Build status](https://github.com/termux/termux-float/workflows/Build/badge.svg)](https://github.com/termux/termux-float/actions)
 [![Join the chat at https://gitter.im/termux/termux](https://badges.gitter.im/termux/termux.svg)](https://gitter.im/termux/termux)
